@@ -1,24 +1,10 @@
-# pomodoro
+# POMODORO
+### 番茄鐘 | Home
+![image](pomodoro_home.jfif)
+### 番茄鐘 | List
+![image](pomodoro_list.jfif)
+### 番茄鐘 | Settings
+![image](pomodoro_settings.jfif)
+###### 網址連結
+https://d559alice.github.io/pomodoro/#/
 
-## Project setup
-```
-npm install 12
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
